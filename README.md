@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathamJha1
 - 👀 I’m interested in Web Development & Cloud Computing
-- 🌱 I’m currently learning Node JS and Databases
+- 🌱 I’m currently learning React and DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: prathamjha5683@gmail.com
 
