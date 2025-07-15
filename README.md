@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @PrathamJha1
-- 👀 I’m interested in Web Development, along with that have worked on different domains as well.
-- 🌱 I’m currently learning Streamlit and Springboot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: prathamjha5683@gmail.com
+👋 Hi, I'm Pratham Jha, a passionate Full Stack Developer with 2 years of industry experience specializing in the MERN stack.
 
-<!---
-PrathamJha1/PrathamJha1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 My expertise includes:
+- Building scalable web applications with MongoDB, Express.js, React, and Node.js
+- Developing smart contracts and decentralized applications (DApps)
+- Implementing blockchain solutions
+
+🔭 I'm currently exploring:
+- Advanced blockchain architectures
+- Web3.js and Ethers.js integrations
+- Microservices with Node.js
+
+🌱 Always learning and contributing to open source!
