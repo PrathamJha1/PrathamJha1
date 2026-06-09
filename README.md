@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Software Engineer | Blockchain Developer
 
-With 2+ years of professional experience in software development, I'm a passionate full-stack engineer specializing in blockchain infrastructure and scalable web applications. Previously worked at **Shardeum**, where I developed node performance monitoring systems and comprehensive testing frameworks for blockchain networks. I thrive on solving complex problems across the entire technology stack, from frontend interfaces to backend services and blockchain protocols.
+With 3 years of professional experience in software development, I'm a passionate full-stack engineer specializing in blockchain infrastructure and scalable web applications. Previously worked at **Shardeum**, where I developed node performance monitoring systems and comprehensive testing frameworks for blockchain networks. I thrive on solving complex problems across the entire technology stack, from frontend interfaces to backend services and blockchain protocols.
 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
